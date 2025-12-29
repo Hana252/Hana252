@@ -2,6 +2,9 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hana-ramadan-2257b8185/) 
+[![Email](https://img.shields.io/badge/Email-hana.ramadan@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:hanaramadan909@gmail.com)
+
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
