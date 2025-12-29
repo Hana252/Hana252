@@ -12,7 +12,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
  ![n8n](https://img.shields.io/badge/n8n-%23E34F26.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
-# 📊 GitHub Stats:
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=Hana252&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Hana252&theme=react&hide_border=false)<br/>
